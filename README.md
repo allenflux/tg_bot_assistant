@@ -1,6 +1,6 @@
 # 🐍 tg_bot_assistant
 
-`tg_bot_assistant` is a Python-based microservice designed to interact with Telegram and manage authorized group members. It works alongside [`tg_bot_backend`](https://github.com/yourusername/tg_bot_backend) to help assign tasks and control permissions in Telegram group chats.
+`tg_bot_assistant` is a Python-based microservice designed to interact with Telegram and manage authorized group members. It works alongside [`tg_bot_backend`](https://github.com/allenflux/tg_bot_backend) to help assign tasks and control permissions in Telegram group chats.
 
 ---
 
